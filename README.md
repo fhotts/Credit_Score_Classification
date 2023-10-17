@@ -1,6 +1,6 @@
 
 
-# Data Science Portifolio
+# Data Science Portfolio
 
 Hello and welcome to my evolving data science portfolio! While I may not have an extensive collection of projects just yet, I'm enthusiastic about my journey into the world of data science. Here, I'm taking my first steps towards mastering this fascinating field.
 
