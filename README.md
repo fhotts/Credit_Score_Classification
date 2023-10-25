@@ -17,4 +17,3 @@ Thank you for visiting my portfolio. Feel free to delve into the details of each
 ## Data Science Projects
 
 * **CREDIT SCORE CLASSIFICATION:** [Link](https://colab.research.google.com/drive/1gLxIBIuKBgRKljh4ZAZN3RLr4PZ_K4Fi?usp=sharing)
-* **PROJECT 2:**  [Nome do Projeto 2](https://aaa)
